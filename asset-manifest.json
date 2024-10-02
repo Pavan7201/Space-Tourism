@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Space-Tourism/static/css/main.1e14d6eb.css",
+    "main.js": "/Space-Tourism/static/js/main.923734ef.js",
+    "static/js/453.1a094713.chunk.js": "/Space-Tourism/static/js/453.1a094713.chunk.js",
+    "static/media/image-victor-glover.png": "/Space-Tourism/static/media/image-victor-glover.8a9a5424588b73ec61c2.png",
+    "static/media/image-anousheh-ansari.png": "/Space-Tourism/static/media/image-anousheh-ansari.2d647128496ddc638acd.png",
+    "static/media/image-mark-shuttleworth.png": "/Space-Tourism/static/media/image-mark-shuttleworth.fc30f35b05fc0bc4ee47.png",
+    "static/media/image-douglas-hurley.png": "/Space-Tourism/static/media/image-douglas-hurley.7540fbb61923064f065e.png",
+    "static/media/background-home-desktop.jpg": "/Space-Tourism/static/media/background-home-desktop.cdf3864ecbfdf20e8c3b.jpg",
+    "static/media/image-moon.png": "/Space-Tourism/static/media/image-moon.d287d07182de3015952f.png",
+    "static/media/background-destination-desktop.jpg": "/Space-Tourism/static/media/background-destination-desktop.468b922c69bf5499b4bc.jpg",
+    "static/media/image-europa.png": "/Space-Tourism/static/media/image-europa.3e95f7d0a16fe2ebf4c6.png",
+    "static/media/image-mars.png": "/Space-Tourism/static/media/image-mars.1b224c8663251270d79f.png",
+    "static/media/image-spaceport-portrait.jpg": "/Space-Tourism/static/media/image-spaceport-portrait.85523db5de13057f36ea.jpg",
+    "static/media/background-crew-desktop.jpg": "/Space-Tourism/static/media/background-crew-desktop.88a3c692fd34eb311e04.jpg",
+    "static/media/image-titan.png": "/Space-Tourism/static/media/image-titan.d4b078f9ce17e686ae99.png",
+    "static/media/background-technology-desktop.jpg": "/Space-Tourism/static/media/background-technology-desktop.b7b589b3c0c5ef0811d4.jpg",
+    "static/media/image-space-capsule-portrait.jpg": "/Space-Tourism/static/media/image-space-capsule-portrait.dd0ac138afef98c1666a.jpg",
+    "static/media/image-launch-vehicle-portrait.jpg": "/Space-Tourism/static/media/image-launch-vehicle-portrait.0c758955a178bdcc3230.jpg",
+    "index.html": "/Space-Tourism/index.html",
+    "main.1e14d6eb.css.map": "/Space-Tourism/static/css/main.1e14d6eb.css.map",
+    "main.923734ef.js.map": "/Space-Tourism/static/js/main.923734ef.js.map",
+    "453.1a094713.chunk.js.map": "/Space-Tourism/static/js/453.1a094713.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1e14d6eb.css",
+    "static/js/main.923734ef.js"
+  ]
+}

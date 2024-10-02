@@ -1,0 +1,77 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.crew-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  gap: 3rem;
+  margin-bottom: 10rem;
+}
+
+.data {
+  margin-top: 9rem;
+  margin-right: 4.5rem;
+}
+
+.crew {
+  font-weight: 500;
+  padding: 4.5rem 0 4rem 8.5rem;
+  max-width: fit-content;
+}
+
+.profile {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 20rem;
+}
+
+.profile span {
+  color: gray;
+  font-weight: 500;
+  font-size: 2rem;
+}
+
+.profile h1 {
+  font-size: 3rem;
+  max-width: fit-content;
+  white-space: nowrap;
+  margin-top: 1.25rem;
+}
+
+.about {
+  font-size: 1rem;
+  color: rgba(255, 255, 255, 0.61);
+  line-height: 1.7;
+  max-width: 31.25rem;
+  margin-top: 2rem;
+}
+
+.navigation {
+  position: absolute;
+  bottom: 2rem;
+  left: 10rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 2rem;
+}
+
+.circles {
+  width: 1rem;
+  height: 1rem;
+  background-color: rgba(128, 128, 128, 0.178);
+  border-radius: 50%;
+  margin: 0;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.circles:hover {
+  background-color: rgba(255, 255, 255, 0.301);
+}
